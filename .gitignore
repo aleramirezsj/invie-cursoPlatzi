@@ -1,7 +1,13 @@
 setting.py
+<<<<<<< HEAD
+.DS_Store
+
+# Created by https://www.gitignore.io/api/node
+=======
 
 # Created by https://www.gitignore.io/api/node
 # Edit at https://www.gitignore.io/?templates=node
+>>>>>>> 2a27918784bcb255351c930fc95a2f3196b2ca0f
 
 ### Node ###
 # Logs
@@ -10,10 +16,13 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
+=======
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+>>>>>>> 2a27918784bcb255351c930fc95a2f3196b2ca0f
 
 # Runtime data
 pids
@@ -30,7 +39,11 @@ coverage
 # nyc test coverage
 .nyc_output
 
+<<<<<<< HEAD
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+=======
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+>>>>>>> 2a27918784bcb255351c930fc95a2f3196b2ca0f
 .grunt
 
 # Bower dependency directory (https://bower.io/)
@@ -39,14 +52,22 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+<<<<<<< HEAD
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+=======
 # Compiled binary addons (https://nodejs.org/api/addons.html)
+>>>>>>> 2a27918784bcb255351c930fc95a2f3196b2ca0f
 build/Release
 
 # Dependency directories
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
+# Typescript v1 declaration files
+=======
 # TypeScript v1 declaration files
+>>>>>>> 2a27918784bcb255351c930fc95a2f3196b2ca0f
 typings/
 
 # Optional npm cache directory
@@ -66,6 +87,9 @@ typings/
 
 # dotenv environment variables file
 .env
+<<<<<<< HEAD
+
+=======
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -88,5 +112,6 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+>>>>>>> 2a27918784bcb255351c930fc95a2f3196b2ca0f
 
 # End of https://www.gitignore.io/api/node
